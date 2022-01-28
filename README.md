@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rwwiv/rwwiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![rwwiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwwiv&theme=dark&hide=stars&count_private=true&show_icons=true&disable_animations=true&hide_rank=true)]()
